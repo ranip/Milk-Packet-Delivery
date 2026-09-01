@@ -1,0 +1,6 @@
+{
+  "name": "MilkBoy - Delivery & Billing Ledger",
+  "description": "Daily milk and dairy delivery tracker, house-wise ledger, payment management, and phone backup sync for delivery vendors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
